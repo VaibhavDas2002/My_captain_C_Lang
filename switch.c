@@ -2,7 +2,6 @@
 
 int main() {
     char op;
-    double n1, n2;
 
     printf("Enter your choice: ");
     scanf("%c", &op);
